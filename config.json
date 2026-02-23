@@ -11,10 +11,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
+    "BOTNAME": "𝙻𝚒Ly〢𝐂𝐚𝐤𝐞",
     "PREFIX": "!",
     "ADMINBOT": [
-        "UIDFacebook"
+        "61561101096216"
     ],
     "DATABASE": {
         "sqlite": {
